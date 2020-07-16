@@ -6,5 +6,12 @@ This repository exists just to keep a track of all the problems I solved. It may
 ## Medium
 
 1508 - subarray sums, reverse priority queue
+1268 - substring, trie
+1282 - map
+1325 - binary tree
+969  - array
 
 ## Hard
+
+1028 - binary tree traversal
+895  - map, stack
