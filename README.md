@@ -16,3 +16,5 @@ This repository exists just to keep a track of all the problems I solved. It may
 
 1028 - binary tree traversal
 895  - map, stack
+1402 - greedy
+1411 - recurrence 
