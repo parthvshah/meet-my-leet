@@ -11,6 +11,8 @@ This repository exists just to keep a track of all the problems I solved. It may
 1325 - binary tree
 969  - array
 1466 - dfs
+763  - greedy
+1038 - reverse inorder traversal
 
 ## Hard
 
