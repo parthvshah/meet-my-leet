@@ -20,3 +20,4 @@ This repository exists just to keep a track of all the problems I solved. It may
 895  - map, stack
 1402 - greedy
 1411 - recurrence 
+1312 - dp (longest palindromic subsequence)
