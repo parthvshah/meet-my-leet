@@ -13,6 +13,7 @@ This repository exists just to keep a track of all the problems I solved. It may
 1466 - dfs
 763  - greedy
 1038 - reverse inorder traversal
+419  - 2d array
 
 ## Hard
 
@@ -21,3 +22,4 @@ This repository exists just to keep a track of all the problems I solved. It may
 1402 - greedy
 1411 - recurrence 
 1312 - dp (longest palindromic subsequence)
+145  - postorder
