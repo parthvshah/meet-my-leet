@@ -23,3 +23,6 @@ This repository exists just to keep a track of all the problems I solved. It may
 - 1411 - recurrence 
 - 1312 - dp (longest palindromic subsequence)
 - 145  - postorder
+- 312  - dp (matrix chain multiplication)
+- 1220 - recurrence
+- 996  - permutations
