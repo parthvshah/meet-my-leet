@@ -14,6 +14,9 @@ This repository exists just to keep a track of all the problems I solved. It may
 - 763  - greedy
 - 1038 - reverse inorder traversal
 - 419  - 2d array
+- 1338 - array
+- 1219 - backtracking
+- 1318 - bit manipulation
 
 ## Hard
 
