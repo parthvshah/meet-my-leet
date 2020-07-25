@@ -17,6 +17,8 @@ This repository exists just to keep a track of all the problems I solved. It may
 - 1338 - array
 - 1219 - backtracking
 - 1318 - bit manipulation
+- 1344 - math
+- 1447 - math
 
 ## Hard
 
