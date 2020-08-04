@@ -19,6 +19,8 @@ This repository exists just to keep a track of all the problems I solved. It may
 - 1318 - bit manipulation
 - 1344 - math
 - 1447 - math
+- 238  - array
+- 547  - dfs
 
 ## Hard
 
