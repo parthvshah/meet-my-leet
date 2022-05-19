@@ -8,7 +8,9 @@ Second session delimited by a new line in both sections. This is for round two p
 ## Medium
 
 - 396 - math
+- 1049 - dp (knapsack)
 
+---
 
 - 1508 - subarray sums, reverse priority queue
 - 1268 - substring, trie
@@ -28,6 +30,8 @@ Second session delimited by a new line in both sections. This is for round two p
 - 547  - dfs
 
 ## Hard
+
+---
 
 - 1028 - binary tree traversal
 - 895  - map, stack
