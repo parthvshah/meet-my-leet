@@ -10,8 +10,10 @@ Second session delimited by a new line in both sections. This is for round two p
 - 63 - dp (robot 2D)
 - 198 - dp (robber)
 - 396 - math
+- 646 - greedy
 - 926 - binary, string
 - 1049 - dp (knapsack)
+- 1641 - math
 - 2063 - substring
 
 ---
