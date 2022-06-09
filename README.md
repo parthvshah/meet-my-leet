@@ -12,6 +12,7 @@ Second session delimited by a new line in both sections. This is for round two p
 - 396 - math
 - 646 - greedy
 - 926 - binary, string
+- 1020 - bfs
 - 1049 - dp (knapsack)
 - 1641 - math
 - 2063 - substring
