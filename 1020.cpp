@@ -53,15 +53,6 @@ public:
             flood(m-1, i, grid);
         }
         
-        for(int i = 0; i < m; ++i)
-        {
-            for(int j = 0; j < n; ++j)
-            {
-                cout << grid[i][j] << " ";
-            }
-            cout << endl;
-        }
-        
         return count(grid);
         
     }

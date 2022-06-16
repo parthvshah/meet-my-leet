@@ -8,11 +8,13 @@ Second session delimited by a new line in both sections. This is for round two p
 ## Medium
 
 - 63 - dp (robot 2D)
+- 95 - bst
 - 198 - dp (robber)
 - 396 - math
 - 646 - greedy
 - 926 - binary, string
 - 1020 - bfs
+- 1035 - dp (lcs)
 - 1049 - dp (knapsack)
 - 1641 - math
 - 2063 - substring
