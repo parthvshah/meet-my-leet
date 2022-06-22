@@ -9,9 +9,11 @@ Second session delimited by a new line in both sections. This is for round two p
 
 - 63 - dp (robot 2D)
 - 95 - bst
+- 131 - backtracking
 - 198 - dp (robber)
 - 396 - math
 - 646 - greedy
+- 718 - dp (lcs)
 - 926 - binary, string
 - 1020 - bfs
 - 1035 - dp (lcs)
