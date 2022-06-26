@@ -15,15 +15,17 @@ Second session delimited by a new line in both sections. This is for round two p
 - 376 - dp
 - 396 - math
 - 646 - greedy
+- 688 - math (probability)
 - 718 - dp (lcs)
 - 926 - binary, string
 - 1020 - bfs
 - 1035 - dp (lcs)
 - 1049 - dp (knapsack)
+- 1414 - math (fibonacci)
 - 1641 - math
 - 2063 - substring
 
-Count - 15
+Count - 16
 
 ---
 
