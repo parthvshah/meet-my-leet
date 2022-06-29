@@ -21,11 +21,13 @@ Second session delimited by a new line in both sections. This is for round two p
 - 1020 - bfs
 - 1035 - dp (lcs)
 - 1049 - dp (knapsack)
+- 1130 - trees
 - 1414 - math (fibonacci)
 - 1641 - math
+- 1947 - permutations
 - 2063 - substring
 
-Count - 16
+Count - 19
 
 ---
 
