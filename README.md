@@ -10,16 +10,19 @@ Second session delimited by a new line in both sections. This is for round two p
 - 63 - dp (robot 2D)
 - 95 - bst
 - 131 - backtracking
+- 166 - map
 - 198 - dp (robber)
 - 313 - math (primes)
 - 376 - dp
 - 396 - math
+- 526 - permutations
 - 646 - greedy
 - 688 - math (probability)
 - 718 - dp (lcs)
 - 926 - binary, string
 - 1020 - bfs
 - 1035 - dp (lcs)
+- 1048 - string
 - 1049 - dp (knapsack)
 - 1130 - trees
 - 1414 - math (fibonacci)
